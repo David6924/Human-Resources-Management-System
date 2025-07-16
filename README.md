@@ -1,2 +1,6 @@
 # Human-Resources-Management-System
-Projeto de Software 
+### Adições iniciais : 
+- Classe de Objeto dos empregrados na empresa
+- Menu interativo incompleto
+    - Descrição dos funcionários da empresa
+    - Número de funcionários empregados 
